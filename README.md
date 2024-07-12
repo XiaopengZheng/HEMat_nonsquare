@@ -1,4 +1,4 @@
-# HEMat
+# HEMat_nonsquare
 ## Step 1. Building and installing HElib
 ### General prerequisites
 * Ubuntu 22.04 LTS
@@ -61,7 +61,7 @@ sudo ldconfig
 
 1. Clone the code
 ```
-git clone http://github.com/XiaopengZheng/HEMat.git
+git clone https://github.com/XiaopengZheng/HEMat_nonsquare.git
 ```
 
 2. Build the code and run (HElib has been installed in `/home/usr/helib_install`)
